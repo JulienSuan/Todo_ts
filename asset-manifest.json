@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Todo_ts/static/css/main.9213e67d.css",
-    "main.js": "/Todo_ts/static/js/main.ff8fdb81.js",
+    "main.js": "/Todo_ts/static/js/main.5d0e3f8f.js",
     "static/js/787.28cb0dcd.chunk.js": "/Todo_ts/static/js/787.28cb0dcd.chunk.js",
     "static/media/PPFraktionMono-Bold.woff2": "/Todo_ts/static/media/PPFraktionMono-Bold.d91d49eba0ca712e4468.woff2",
     "static/media/PPFraktionMono-Regular.woff2": "/Todo_ts/static/media/PPFraktionMono-Regular.6862696f4eb5c46e6867.woff2",
     "static/media/PPFraktionMono-Light.woff2": "/Todo_ts/static/media/PPFraktionMono-Light.aee172e925ed8452a5fe.woff2",
     "index.html": "/Todo_ts/index.html",
     "main.9213e67d.css.map": "/Todo_ts/static/css/main.9213e67d.css.map",
-    "main.ff8fdb81.js.map": "/Todo_ts/static/js/main.ff8fdb81.js.map",
+    "main.5d0e3f8f.js.map": "/Todo_ts/static/js/main.5d0e3f8f.js.map",
     "787.28cb0dcd.chunk.js.map": "/Todo_ts/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9213e67d.css",
-    "static/js/main.ff8fdb81.js"
+    "static/js/main.5d0e3f8f.js"
   ]
 }
